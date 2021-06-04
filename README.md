@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Ebers-App
-Flutter repository
-=======
-# ebers_app
 
 A new Flutter project.
 
