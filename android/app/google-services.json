@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144328036601",
+    "project_id": "ebers-a7681",
+    "storage_bucket": "ebers-a7681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144328036601:android:269e564a54624487789228",
+        "android_client_info": {
+          "package_name": "app.ebers.ebers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144328036601-ugfhmcq9nl431alr6ub6r4n1vaa4dcue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ebers.ebers_app",
+            "certificate_hash": "c881111e20d19eef6426d77cb35cac74d6c334db"
+          }
+        },
+        {
+          "client_id": "144328036601-30n4t5i0tlfcfac8ec0qk0q6vutoe3i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEJjLsIFaUL_9RXzF6I9_w8mRUJAeySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144328036601-30n4t5i0tlfcfac8ec0qk0q6vutoe3i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
